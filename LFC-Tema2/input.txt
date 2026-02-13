@@ -1,0 +1,15 @@
+int x = 10;
+float PI = 3.14;
+const double e = 2.71828;
+
+void main() {
+    greet(5)^^^^^#;
+
+}
+
+int greet(int aux) {
+   if(aux==0)
+    return 1;
+   else
+    return 1+greet(aux-1);    
+}
